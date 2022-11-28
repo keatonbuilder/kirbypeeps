@@ -10,11 +10,13 @@ has_children: true
 > Nov. 2022 General Election *(Nov. 30 - Dec. 1)*
 
 #### Ballot Measure 1 - Adds a Jr. Mod and Sr. Mod positions of staff.
+
 | Option | Votes (percentage) | In lead? |
 | :---   | :---               | :---     |
 | Yes    | 1 (100%)           | ✅       |
 | No     | 0 (0%)             | ❌       |
 #### Ballot Measure 2 - How long should the voting period be?
+
 | Option | Votes (percentage) | In lead? |
 | :---   | :---               | :---     |
 | 1 Day  | 0 (0%)             | ❌       |
