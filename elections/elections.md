@@ -22,24 +22,24 @@ has_children: true
 
 #### Ballot Measure 1 - Adds a Jr. Mod and Sr. Mod positions of staff.
 
-| Option | Votes (percentage) | In lead? |
-| :---   | :---               | :---     |
-| Yes    | 1 (100%)           | ✅       |
-| No     | 0 (0%)             | ❌       |
+| Option  | Votes (percentage) | In lead? |
+| :---    | :---               | :---     |
+| **Yes** | **2 (100%)**       | ✅       |
+| No      | 0 (0%)             | ❌       |
 
 #### Ballot Measure 2 - How long should the voting period be?
 
-| Option | Votes (percentage) | In lead? |
-| :---   | :---               | :---     |
-| 1 Day  | 0 (0%)             | ❌       |
-| 2 Days | 0 (0%)             | ❌       |
-| 3 Days | 1 (100%)           | ✅       |
-| 4 Days | 0 (0%)             | ❌       |
-| 5 Days | 0 (0%)             | ❌       |
-| 6 Days | 0 (0%)             | ❌       |
-| 7 Days | 0 (0%)             | ❌       |
+| Option     | Votes (percentage) | In lead? |
+| :---       | :---               | :---     |
+| 1 Day      | 0 (0%)             | ❌       |
+| **2 Days** | **1 (50%)**        | 📦       |
+| **3 Days** | **1 (50%)**        | 📦       |
+| 4 Days     | 0 (0%)             | ❌       |
+| 5 Days     | 0 (0%)             | ❌       |
+| 6 Days     | 0 (0%)             | ❌       |
+| 7 Days     | 0 (0%)             | ❌       |
 
-*Polls yet to open.*
+*Early voting[^2] open now. General voting to open on Wednesday.*
 
 ## Further elections
 ### Dec. 2022 General Election[^1] *(Dec. 30 - Dec. 31) (early voting tbd)[^2]*
