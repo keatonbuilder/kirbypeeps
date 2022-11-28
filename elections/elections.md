@@ -15,6 +15,7 @@ has_children: true
 | :---   | :---               | :---     |
 | Yes    | 1 (100%)           | ✅       |
 | No     | 0 (0%)             | ❌       |
+
 #### Ballot Measure 2 - How long should the voting period be?
 
 | Option | Votes (percentage) | In lead? |
