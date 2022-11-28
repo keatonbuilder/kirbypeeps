@@ -22,22 +22,22 @@ has_children: true
 
 #### Ballot Measure 1 - Adds a Jr. Mod and Sr. Mod positions of staff.
 
-| Option | Votes (percentage) | In lead? |
-| :---   | :---               | :---     |
-| Yes    | 2 (100%)           | ✅       |
-| No     | 0 (0%)             | ❌       |
+| Option  | Votes (percentage) | In lead? |
+| :---    | :---               | :---     |
+| **Yes** | **2 (100%)**       | ✅       |
+| No      | 0 (0%)             | ❌       |
 
 #### Ballot Measure 2 - How long should the voting period be?
 
-| Option | Votes (percentage) | In lead? |
-| :---   | :---               | :---     |
-| 1 Day  | 0 (0%)             | ❌       |
-| 2 Days | 1 (50%)            | 📦       |
-| 3 Days | 1 (50%)            | 📦       |
-| 4 Days | 0 (0%)             | ❌       |
-| 5 Days | 0 (0%)             | ❌       |
-| 6 Days | 0 (0%)             | ❌       |
-| 7 Days | 0 (0%)             | ❌       |
+| Option     | Votes (percentage) | In lead? |
+| :---       | :---               | :---     |
+| 1 Day      | 0 (0%)             | ❌       |
+| **2 Days** | **1 (50%)**        | 📦       |
+| **3 Days** | **1 (50%)**        | 📦       |
+| 4 Days     | 0 (0%)             | ❌       |
+| 5 Days     | 0 (0%)             | ❌       |
+| 6 Days     | 0 (0%)             | ❌       |
+| 7 Days     | 0 (0%)             | ❌       |
 
 *Early voting[^2] open now. General voting to open on Wednesday.*
 
