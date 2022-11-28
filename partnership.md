@@ -12,5 +12,5 @@ nav_order: 4
 - Submit request here: [https://forms.gle/DjKJ1fFVG9mmz3vJ8](https://forms.gle/DjKJ1fFVG9mmz3vJ8)
 ## Current Partnerships
 | There are no partnerships active at the moment. |
-| :---:                                           |
+| :---                                            |
 | None.                                           |
