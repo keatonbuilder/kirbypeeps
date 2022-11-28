@@ -6,8 +6,8 @@ has_children: true
 ---
 
 # Elections
-### Current Election
-> Nov. 2022 General Election *(Nov. 30 - Dec. 1)*
+## Current Election
+### Nov. 2022 General Election *(Nov. 30 - Dec. 1) (early voting now)[^1]*
 
 #### Ballot Measure 1 - Adds a Jr. Mod and Sr. Mod positions of staff.
 
@@ -31,13 +31,13 @@ has_children: true
 *Polls yet to open.*
 
 ### Further elections
-> Dec. 2022 General Election *(Dec. 30 - Dec. 31)*
+> Dec. 2022 General Election *(Dec. 30 - Dec. 31) (early voting tbd)[^1]*
 
 *(Ballot measures unfinal)*
 
 *Polls yet to open.*
 
-> Dec. 2022 Administration Election *(Dec. 30 - Dec. 31)*
+> Dec. 2022 Administration Election *(Dec. 30 - Dec. 31) (early voting tbd)[^1]*
 
 | Admin           | Votes  |
 | :---            | :---   |
@@ -46,7 +46,7 @@ has_children: true
 
 *Polls yet to open.*
 
-> Dec. 2022 Moderation Election *(Dec. 30 - Dec. 31)*
+> Dec. 2022 Moderation Election *(Dec. 30 - Dec. 31) (early voting tbd)[^1]*
 
 | Mod             | Votes  |
 | :---            | :---   |
@@ -54,3 +54,5 @@ has_children: true
 | ollie-system    | 0 (0%) |
 
 *Polls yet to open.*
+
+[^1]: Early voting is for staff and users that have acheived level 10.
