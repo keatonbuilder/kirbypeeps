@@ -13,3 +13,4 @@ nav_order: 4
 ## Current Partnerships
 | There are no partnerships active at the moment. |
 | :---:                                           |
+| None.                                           |
