@@ -1,8 +1,8 @@
 ---
 title: Elections
 layout: default
-nav-order: 2
-has-children: true
+nav_order: 2
+has_children: true
 ---
 
 # Elections

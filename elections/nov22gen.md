@@ -1,7 +1,7 @@
 ---
 title: Nov. 2022 General
 layout: default
-nav-order: 1
+nav_order: 1
 parent: Elections
 ---
 
