@@ -6,24 +6,49 @@ has_children: true
 ---
 
 # Elections
-### Next Election
-> Nov. 2022 General Election *(Nov. 30 - Dec. 1)*
 
-| Ballot measure                                    | Type                                            | Votes  |
-| :---:                                             | :---                                            | :---   |
-| 1: Adds a Jr. Mod and Sr. Mod positions of staff. | Yes/No                                          | 0 (0%) |
-| 2: How long should the voting period be?          | 1 Day/2 Days/3 Days/4 Days/5 Days/6 Days/7 Days | 0 (0%) |
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. Current election
+2. Further elections
+{:toc}
+</details>
+
+## Current Election
+### Nov. 2022 General Election[^1] *(Nov. 30 - Dec. 1) (early voting now)[^2]*
+
+#### Ballot Measure 1 - Adds a Jr. Mod and Sr. Mod positions of staff.
+
+| Option | Votes (percentage) | In lead? |
+| :---   | :---               | :---     |
+| Yes    | 1 (100%)           | ✅       |
+| No     | 0 (0%)             | ❌       |
+
+#### Ballot Measure 2 - How long should the voting period be?
+
+| Option | Votes (percentage) | In lead? |
+| :---   | :---               | :---     |
+| 1 Day  | 0 (0%)             | ❌       |
+| 2 Days | 0 (0%)             | ❌       |
+| 3 Days | 1 (100%)           | ✅       |
+| 4 Days | 0 (0%)             | ❌       |
+| 5 Days | 0 (0%)             | ❌       |
+| 6 Days | 0 (0%)             | ❌       |
+| 7 Days | 0 (0%)             | ❌       |
 
 *Polls yet to open.*
 
-### Further elections
-> Dec. 2022 General Election *(Dec. 30 - Dec. 31)*
+## Further elections
+### Dec. 2022 General Election[^1] *(Dec. 30 - Dec. 31) (early voting tbd)[^2]*
 
 *(Ballot measures unfinal)*
 
 *Polls yet to open.*
 
-> Dec. 2022 Administration Election *(Dec. 30 - Dec. 31)*
+### Dec. 2022 Administration Election[^3] *(Dec. 30 - Dec. 31) (early voting tbd)[^2]*
 
 | Admin           | Votes  |
 | :---            | :---   |
@@ -32,7 +57,7 @@ has_children: true
 
 *Polls yet to open.*
 
-> Dec. 2022 Moderation Election *(Dec. 30 - Dec. 31)*
+### Dec. 2022 Moderation Election[^4] *(Dec. 30 - Dec. 31) (early voting tbd)[^2]*
 
 | Mod             | Votes  |
 | :---            | :---   |
@@ -40,3 +65,8 @@ has_children: true
 | ollie-system    | 0 (0%) |
 
 *Polls yet to open.*
+
+[^1]: General elections only consist of ballot measures and are held every month unless there are no ballot measures to be voted on.
+[^2]: Early voting is for staff and users that have acheived level 10.
+[^3]: Administration elections elect the head admin and are held yearly in December.
+[^4]: Moderation elections are the same as Administration Elections but elect a Head Mod.
