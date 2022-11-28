@@ -6,13 +6,29 @@ has_children: true
 ---
 
 # Elections
-### Next Election
+### Current Election
 > Nov. 2022 General Election *(Nov. 30 - Dec. 1)*
 
-| Ballot measure                                    | Type                                            | Votes  |
-| :---:                                             | :---                                            | :---   |
-| 1: Adds a Jr. Mod and Sr. Mod positions of staff. | Yes/No                                          | 0 (0%) |
-| 2: How long should the voting period be?          | 1 Day/2 Days/3 Days/4 Days/5 Days/6 Days/7 Days | 0 (0%) |
+| Ballot measure                                    | Type                                            |
+| :---:                                             | :---                                            |
+| 1: Adds a Jr. Mod and Sr. Mod positions of staff. | Yes/No                                          |
+| 2: How long should the voting period be?          | 1 Day/2 Days/3 Days/4 Days/5 Days/6 Days/7 Days |
+
+#### Ballot Measure 1
+| Option | Votes (percentage) | In lead? |
+| :---   | :---               | :---     |
+| Yes    | 1 (100%)           | ✅       |
+| No     | 0 (0%)             | ❌       |
+#### Ballot Measure 2
+| Option | Votes (percentage) | In lead? |
+| :---   | :---               | :---     |
+| 1 Day  | 0 (0%)             | ❌       |
+| 2 Days | 0 (0%)             | ❌       |
+| 3 Days | 1 (100%)           | ✅       |
+| 4 Days | 0 (0%)             | ❌       |
+| 5 Days | 0 (0%)             | ❌       |
+| 6 Days | 0 (0%)             | ❌       |
+| 7 Days | 0 (0%)             | ❌       |
 
 *Polls yet to open.*
 
