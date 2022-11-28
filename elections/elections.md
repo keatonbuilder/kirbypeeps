@@ -7,7 +7,7 @@ has_children: true
 
 # Elections
 ## Current Election
-### Nov. 2022 General Election *(Nov. 30 - Dec. 1) (early voting now)[^1]*
+### Nov. 2022 General Election[^1] *(Nov. 30 - Dec. 1) (early voting now)[^2]*
 
 #### Ballot Measure 1 - Adds a Jr. Mod and Sr. Mod positions of staff.
 
@@ -31,13 +31,13 @@ has_children: true
 *Polls yet to open.*
 
 ## Further elections
-### Dec. 2022 General Election *(Dec. 30 - Dec. 31) (early voting tbd)[^1]*
+### Dec. 2022 General Election[^1] *(Dec. 30 - Dec. 31) (early voting tbd)[^2]*
 
 *(Ballot measures unfinal)*
 
 *Polls yet to open.*
 
-### Dec. 2022 Administration Election *(Dec. 30 - Dec. 31) (early voting tbd)[^1]*
+### Dec. 2022 Administration Election[^3] *(Dec. 30 - Dec. 31) (early voting tbd)[^2]*
 
 | Admin           | Votes  |
 | :---            | :---   |
@@ -46,7 +46,7 @@ has_children: true
 
 *Polls yet to open.*
 
-### Dec. 2022 Moderation Election *(Dec. 30 - Dec. 31) (early voting tbd)[^1]*
+### Dec. 2022 Moderation Election[^4] *(Dec. 30 - Dec. 31) (early voting tbd)[^2]*
 
 | Mod             | Votes  |
 | :---            | :---   |
@@ -55,4 +55,7 @@ has_children: true
 
 *Polls yet to open.*
 
-[^1]: Early voting is for staff and users that have acheived level 10.
+[^1]: General elections only consist of ballot measures and are held every month unless there are no ballot measures to be voted on.
+[^2]: Early voting is for staff and users that have acheived level 10.
+[^3]: Administration elections elect the head admin and are held yearly in December.
+[^4]: Moderation elections are the same as Administration Elections but elect a Head Mod.
