@@ -6,6 +6,17 @@ has_children: true
 ---
 
 # Elections
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. Current election
+2. Further elections
+{:toc}
+</details>
+
 ## Current Election
 ### Nov. 2022 General Election[^1] *(Nov. 30 - Dec. 1) (early voting now)[^2]*
 
