@@ -15,8 +15,8 @@ Coming soon
 Coming soon
 {: .label .label-yellow }
 
-<!-- [Moderation Election](elections/dec22mod.html){: .btn } -->
-<!-- [Administration Election](elections/dec22admin.html){: .btn } -->
+<!-- [Moderation Election](dec22mod.html){: .btn } -->
+<!-- [Administration Election](dec22admin.html){: .btn } -->
 
 ## January 2023 Elections
 
@@ -25,7 +25,4 @@ Coming soon
 
 ## November 2022 Elections
 
-Coming soon
-{: .label .label-yellow }
-
-<!-- [General Electon](elections/nov22gen.html){: .btn .btn-outline } -->
+[General Electon](nov22gen.html){: .btn .btn-outline }
