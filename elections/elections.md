@@ -22,49 +22,26 @@ has_children: true
 
 #### Ballot Measure 1 - Adds a Jr. Mod and Sr. Mod positions of staff.
 
-| Option  | Votes (percentage) | In lead? |
-| :---    | :---               | :---     |
-| **Yes** | **2 (100%)**       | ✅       |
-| No      | 0 (0%)             | ❌       |
+*Winner to be decided...* [__View full results >__](nov22genresults.html#ballot-measure-1-adds-a-jr-mod-and-sr-mod-positions-of-staff)
 
 #### Ballot Measure 2 - How long should the voting period be?
 
-| Option     | Votes (percentage) | In lead? |
-| :---       | :---               | :---     |
-| 1 Day      | 0 (0%)             | ❌       |
-| **2 Days** | **1 (50%)**        | 📦       |
-| **3 Days** | **1 (50%)**        | 📦       |
-| 4 Days     | 0 (0%)             | ❌       |
-| 5 Days     | 0 (0%)             | ❌       |
-| 6 Days     | 0 (0%)             | ❌       |
-| 7 Days     | 0 (0%)             | ❌       |
+*Winner to be decided...* [__View full results >__](nov22genresults.html#ballot-measure-2-how-long-should-the-voting-period-be)
 
 *Early voting[^2] open now. General voting to open on Wednesday.*
 
 ## Further elections
 ### Dec. 2022 General Election[^1] *(Dec. 30 - Dec. 31) (early voting tbd)[^2]*
 
-*(Ballot measures unfinal)*
-
-*Polls yet to open.*
+*Polls yet to open.* [__See what is on the ballot >__](dec22genresults.html) *(Ballot measures unfinal)*
 
 ### Dec. 2022 Administration Election[^3] *(Dec. 30 - Dec. 31) (early voting tbd)[^2]*
 
-| Admin           | Votes  |
-| :---            | :---   |
-| keatonbuilds    | 0 (0%) |
-| That Guy Buu ツ | 0 (0%) |
-
-*Polls yet to open.*
+*Polls yet to open.* [__See who is on the ballot >__](dec22adminresults.html)
 
 ### Dec. 2022 Moderation Election[^4] *(Dec. 30 - Dec. 31) (early voting tbd)[^2]*
 
-| Mod             | Votes  |
-| :---            | :---   |
-| AshytheOnly     | 0 (0%) |
-| ollie-system    | 0 (0%) |
-
-*Polls yet to open.*
+*Polls yet to open.* [__See who is on the ballot >__](dec22modresults.html)
 
 [^1]: General elections only consist of ballot measures and are held every month unless there are no ballot measures to be voted on.
 [^2]: Early voting is for staff and users that have acheived level 10.
