@@ -30,14 +30,14 @@ has_children: true
 
 *Polls yet to open.*
 
-### Further elections
-> Dec. 2022 General Election *(Dec. 30 - Dec. 31) (early voting tbd)[^1]*
+## Further elections
+### Dec. 2022 General Election *(Dec. 30 - Dec. 31) (early voting tbd)[^1]*
 
 *(Ballot measures unfinal)*
 
 *Polls yet to open.*
 
-> Dec. 2022 Administration Election *(Dec. 30 - Dec. 31) (early voting tbd)[^1]*
+### Dec. 2022 Administration Election *(Dec. 30 - Dec. 31) (early voting tbd)[^1]*
 
 | Admin           | Votes  |
 | :---            | :---   |
@@ -46,7 +46,7 @@ has_children: true
 
 *Polls yet to open.*
 
-> Dec. 2022 Moderation Election *(Dec. 30 - Dec. 31) (early voting tbd)[^1]*
+### Dec. 2022 Moderation Election *(Dec. 30 - Dec. 31) (early voting tbd)[^1]*
 
 | Mod             | Votes  |
 | :---            | :---   |
