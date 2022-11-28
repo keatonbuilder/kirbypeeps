@@ -7,7 +7,7 @@ has_children: true
 
 # Elections
 ### Next Election
-> [Nov. 2022 General Election](elections/nov22gen.md) *(Nov. 30 - Dec. 1)*
+> Nov. 2022 General Election *(Nov. 30 - Dec. 1)*
 
 | Ballot measure                                    | Type                                            | Votes  |
 | :---:                                             | :---                                            | :---   |
