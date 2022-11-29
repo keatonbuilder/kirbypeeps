@@ -6,13 +6,20 @@ parent: Elections
 ---
 
 # November 2022 General Election Results
-## 🔴 Live updating results: Last updated 11/27/22 23:53pm UTC -6.
+General voting to open.
+{: .label }
+
+Early voting open now.
+{: .label .label-yellow }
 
 ### **Ballot Measure 1:** Adds a Jr. Mod and Sr. Mod positions of staff. 
 
 Expected Vote: `9`
 
 Expected Vote In: `2 (0.2%)` 
+
+Too early to call
+{: .label .label-yellow }
 
 | Option | Votes (percentage) |
 | :---   | :---               |
@@ -24,6 +31,9 @@ Expected Vote In: `2 (0.2%)`
 Expected Vote: `9`
 
 Expected Vote In: `2 (0.2%)` 
+
+Too early to call
+{: .label .label-yellow }
 
 | Option | Votes (percentage) |
 | :---   | :---               |
@@ -40,3 +50,5 @@ Expected Vote In: `2 (0.2%)`
 Early voting is now open for staff and users above the level of 10.
 ### Regular Voting
 Regular voting opens on November 30th around 5:00pm UTC -6.
+## 🔗 Ties
+Ties will go to a coin flip/random number generation.

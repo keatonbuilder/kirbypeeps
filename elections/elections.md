@@ -42,6 +42,8 @@ has_children: true
 
 *Polls yet to open.* [__See who is on the ballot >__](dec22modresults.html)
 
+# Notes
+
 [^1]: General elections only consist of ballot measures and are held every month unless there are no ballot measures to be voted on.
 [^2]: Early voting is for staff and users that have acheived level 10.
 [^3]: Administration elections elect the head admin and are held yearly in December.

@@ -53,4 +53,6 @@ Put those 2 brain cells to work!
 ## MAPs
 MAPs (Minor Attracted People) are cringe and will be banned.
 
+# Notes
+
 [^1]: Has characters that can't be typed on an English QWERTY keyboard

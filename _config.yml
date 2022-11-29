@@ -7,6 +7,6 @@ url: https://keatonbuilder.github.io/kirbypeeps
 aux_links:
   Join: 
 
-color_scheme: dark
+color_scheme: light
 
-search_enabled: false
+search_enabled: true
