@@ -15,6 +15,10 @@ Expected Vote: `?`
 | AshytheOnly     | 0 (0%) |
 | ollie-system    | 0 (0%) |
 
+## Inauguration
+
+Planned for Jan. 2nd, 2022 around 6pm UTC-6.
+
 ## Other elections in December 2022
 
 [Administration Election](dec22adminresults.html)
