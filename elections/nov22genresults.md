@@ -47,9 +47,9 @@ Too early to call, not enough votes
 
 ## 🗳️ Voting
 ### Early Voting
-Early voting is now open for staff and users above the level of 10.
+Early voting is now closed.
 ### Regular Voting
-Regular voting opens on November 30th around 5:00pm UTC -6.
+Regular voting is now open and closes at 5:00pm UTC-6 on December 1st.
 ## 🔗 Ties
 Ties will go to a coin flip/random number generation.
 ## ✅ Calling a winner
