@@ -12,8 +12,7 @@ has_children: true
     Table of contents
   </summary>
   {: .text-delta }
-1. Current election
-2. Further elections
+1. TOC
 {:toc}
 </details>
 
