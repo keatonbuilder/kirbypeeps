@@ -1,7 +1,7 @@
 ---
 title: Nov. 2022 General Election Results
 layout: default
-nav_order: 1
+nav_order: 2
 parent: Elections
 ---
 
@@ -53,24 +53,4 @@ Regular voting opens on November 30th around 5:00pm UTC -6.
 ## 🔗 Ties
 Ties will go to a coin flip/random number generation.
 ## ✅ Calling a winner
-After at least half of the expected vote is in, a winner can be **projected**. A projection is really waht is most likely. After all polls close, a winner is certified.
-
-> A projected win looks like this:
-
-Projected winner
-{: .label .label-blue }
-
-| Option     | Votes (percentage) |
-| :---       | :---               |
-| Yes        | 3 (33%)            |
-| ✔️ **No** | **6 (66%)**         |
-
-> A certified win looks like this:
-
-Certified winner
-{: .label .label-green }
-
-| Option     | Votes (percentage) |
-| :---       | :---               |
-| Yes        | 3 (33%)            |
-| ✔️ **No** | **6 (66%)**         |
+[See how projections are made and how they look. ↗️](/elections/calling.html){: .btn .btn-outline }
