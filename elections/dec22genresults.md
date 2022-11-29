@@ -11,7 +11,7 @@ parent: Elections
 ## ✅ Calling a winner
 [See how projections are made and how they look. ↗️](/elections/calling.html){: .btn .btn-outline }
 
-## Other elections in December 2022
+## 🔗 Other elections in December 2022
 
 [Administration Election](dec22adminresults.html)
 
