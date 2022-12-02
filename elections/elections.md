@@ -16,31 +16,23 @@ has_children: true
 {:toc}
 </details>
 
-## Current Election
-### Nov. 2022 General Election[^1] *(Nov. 30 - Dec. 1) (early voting now)[^2]*
-
-#### Ballot Measure 1 - Adds a Jr. Mod and Sr. Mod positions of staff.
-
-*Winner to be decided...* [__View full results >__](nov22genresults.html#ballot-measure-1-adds-a-jr-mod-and-sr-mod-positions-of-staff)
-
-#### Ballot Measure 2 - How long should the voting period be?
-
-*Winner to be decided...* [__View full results >__](nov22genresults.html#ballot-measure-2-how-long-should-the-voting-period-be)
-
-*Early voting[^2] open now. General voting to open on Wednesday.*
-
-## Further elections
-### Dec. 2022 General Election[^1] *(Dec. 30 - Dec. 31) (early voting tbd)[^2]*
+## Next Set of Elections
+### Dec. 2022 General Election[^1] *(Dec. 30 - Dec. 31) (Early: Dec. 27 - Dec. 28)[^2]*
 
 *Polls yet to open.* [__See what is on the ballot >__](dec22genresults.html) *(Ballot measures unfinal)*
 
-### Dec. 2022 Administration Election[^3] *(Dec. 30 - Dec. 31) (early voting tbd)[^2]*
+### Dec. 2022 Administration Election[^3] *(Dec. 30 - Dec. 31) (Early: Dec. 27 - Dec. 28)[^2]*
 
 *Polls yet to open.* [__See who is on the ballot >__](dec22adminresults.html)
 
-### Dec. 2022 Moderation Election[^4] *(Dec. 30 - Dec. 31) (early voting tbd)[^2]*
+### Dec. 2022 Moderation Election[^4] *(Dec. 30 - Dec. 31) (Early: Dec. 27 - Dec. 28)[^2]*
 
 *Polls yet to open.* [__See who is on the ballot >__](dec22modresults.html)
+
+## Further elections
+### Jan. 2023 General Election[^1] *(Jan. 30 - Jan. 31) (early voting tbd)[^2]*
+
+*Polls yet to open.* [__See what is on the ballot >__](jan22genresults.html) *(Ballot measures unfinal)*
 
 # Notes
 

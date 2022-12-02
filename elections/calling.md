@@ -27,3 +27,6 @@ Certified winner
 | :---       | :---               |
 | Yes        | 3 (33%)            |
 | ✔️ **No** | **6 (66%)**         |
+
+# 🔗 Ties
+Ties can go to a coin flip, a random number generator, or a re-vote.

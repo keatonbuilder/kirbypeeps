@@ -1,22 +1,12 @@
 ---
-title: 📅 Dec. 2022 Moderation Election Results
+title: 📄 Jan. 2022 General Election Results
 layout: default
-nav_order: 3
+nav_order: 5
 parent: Elections
 ---
 
-# December 2022 Moderation Election Results
-## 👷 Elects a head mod!
-
-Expected Vote: `?`
-
-| Mod             | Votes  |
-| :---            | :---   |
-| AshytheOnly     | 0 (0%) |
-| ollie-system    | 0 (0%) |
-
-## ⚔️ Inauguration
-Planned for Jan. 2nd, 2022 around 6pm UTC-6.
+# December 2022 General Election Results
+## **No ballot measures are set up yet. Suggest one in the Discord server!**
 
 ## 🗳️ Voting
 ### Early Voting
@@ -31,4 +21,4 @@ Regular voting opens on Dec. 30 around 5:00pm UTC -6.
 
 [Administration Election](dec22adminresults.html)
 
-[General Election](dec22genresults.html)
+[Moderation Election](dec22modresults.html)

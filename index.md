@@ -10,13 +10,12 @@ nav_order: 1
 ### Decide leadership
 Elections held monthly!
 
-| Upcoming Elections                                     | Date              |
-| :---:                                                  | :---:             |
-| **Nov. 2022 General Election**                         | **NOW!**          |
-| Dec. 2022 General Election                             | Dec. 30 - Dec. 31 |
-| Dec. 2022 Administration Election                      | Dec. 30 - Dec. 31 |
-| Dec. 2022 Moderation Election                          | Dec. 30 - Dec. 31 |
-| **[Go more in-depth >](elections/elections.html)**     |                   |
+| Upcoming Elections                                                     | Date              |
+| :---:                                                                  | :---:             |
+| [Dec. 2022 General Election](/elections/dec22genresults.html)          | Dec. 30 - Dec. 31 |
+| [Dec. 2022 Administration Election](/elections/dec22adminresults.html) | Dec. 30 - Dec. 31 |
+| [Dec. 2022 Moderation Election](/elections/dec22modresults.html)       | Dec. 30 - Dec. 31 |
+| **[Go more in-depth >](elections/elections.html)**                     |                   |
 
 ### All inclusive
 Homophobia, Transphobia, Racism, Sexism, etc. in the server have a no-tolerance policy.
