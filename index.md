@@ -5,6 +5,10 @@ nav_order: 1
 ---
 
 # Kirby Peeps
+## ⚠️ Warning
+> Deprecration {: .label .label-red }
+
+> This website has been deprecated. Please go to the new website, linked [here](https://keatonbuilder.github.io/goofballtheater). (link doesnt work, haven't created the website yet)
 ## A server for socialization.
 
 ### Decide leadership
