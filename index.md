@@ -8,7 +8,7 @@ nav_order: 1
 ## ⚠️ Warning
 > Deprecration {: .label .label-red }
 
-> This website has been deprecated. Please go to the new website, linked [here](https://keatonbuilder.github.io/goofballtheater). (link doesnt work, haven't created the website yet)
+> This website has been deprecated. Please go to the new website, linked [here](https://keatonbuilder.github.io/goofballtheater).
 ## A server for socialization.
 
 ### Decide leadership
